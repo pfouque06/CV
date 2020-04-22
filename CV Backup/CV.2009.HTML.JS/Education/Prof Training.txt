@@ -1,0 +1,26 @@
+As required, you will find hereafter a list of Training I had with Juniper, Nortel, Cisco and Checkpoint:
+
+Cisco:
+- CCNA 		self training (certified)
+- CCNP BCMSN 	self training (certified)
+
+Juniper:
+- Juniper Internet Backbone Router Architecture and Configuration Class
+- Junos Routing Policy
+- Troubleshooting using Junos Software
+- Junos - Traffic Engineering using MPLS (Raleigh)
+
+Nortel:
+- Accelerated Router Configuration
+- LAN protocols
+- WAN protocols
+- Advanced Ip Routing
+- IP Network Optimization
+- Building Scalable and Resiliant Networks using OSPD and BGP-4
+- Versalar 15000 and 25000 trainings
+- Alteon WebOS training (ACA certified)
+- Accelar 1000 and Passport 8600 trainings
+- Centillion 100 trainings
+
+Checkpoint:
+- CCSA training (CCSA certified)
