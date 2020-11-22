@@ -6,7 +6,7 @@ services:
       restart: always
       volumes:
         - ./default.conf:/etc/nginx/conf.d/default.conf
-        - ./:/usr/share/nginx/html/
+        - "./CV Current/:/usr/share/nginx/html/"
       working_dir: /usr/share/nginx/html
       environment:
         - VIRTUAL_HOST=www.pfouque.fr # Enviroment variable needed for nginx proxy
